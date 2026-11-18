@@ -1,0 +1,11 @@
+# blog drafts (published separately)
+blog.md
+blog_en.md
+# raw session mirrors / logs not used in the blog
+results/remote/
+results/sync_log.txt
+# Colab session helpers
+code/status.sh
+code/sync.sh
+__pycache__/
+*.pyc

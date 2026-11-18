@@ -1,0 +1,494 @@
+{
+ "removal": {
+  "ECO_k1": {
+   "mean": 0.6805634598139375,
+   "per_target": {
+    "binding:DN0.8": 0.09135576026212877,
+    "binding:AT11.3": 0.924615991943288,
+    "binding:DN14.0": 0.5777637781489975,
+    "binding:AT15.5": 0.9795781117670241,
+    "capital:DN20.4": 0.3460497965212548,
+    "capital:AT15.1": 1.1640173202409316
+   },
+   "kl": 0.26619899917083484,
+   "other_drop": -0.2591789960861206,
+   "comps": {
+    "binding:DN0.8": [
+     "AT15.3"
+    ],
+    "binding:AT11.3": [
+     "AT11.6"
+    ],
+    "binding:DN14.0": [
+     "DN14.15"
+    ],
+    "binding:AT15.5": [
+     "AT15.3"
+    ],
+    "capital:DN20.4": [
+     "AT23.3"
+    ],
+    "capital:AT15.1": [
+     "AT15.3"
+    ]
+   }
+  },
+  "INTACT_k1": {
+   "mean": 0.5431881313479496,
+   "per_target": {
+    "binding:DN0.8": 0.09135576026212877,
+    "binding:AT11.3": 0.31844445166372043,
+    "binding:DN14.0": 0.460563771116397,
+    "binding:AT15.5": 0.9795781117670241,
+    "capital:DN20.4": 0.3460497965212548,
+    "capital:AT15.1": 1.0631368967571724
+   },
+   "kl": 0.27113889111205935,
+   "other_drop": -0.21393199761708578,
+   "comps": {
+    "binding:DN0.8": [
+     "AT15.3"
+    ],
+    "binding:AT11.3": [
+     "AT15.3"
+    ],
+    "binding:DN14.0": [
+     "AT15.3"
+    ],
+    "binding:AT15.5": [
+     "AT15.3"
+    ],
+    "capital:DN20.4": [
+     "AT23.3"
+    ],
+    "capital:AT15.1": [
+     "AT23.3"
+    ]
+   }
+  },
+  "ATP_k1": {
+   "mean": 0.6775012097745626,
+   "per_target": {
+    "binding:DN0.8": 0.09135576026212877,
+    "binding:AT11.3": 0.924615991943288,
+    "binding:DN14.0": 0.5777637781489975,
+    "binding:AT15.5": 0.9795781117670241,
+    "capital:DN20.4": 0.32767629628500605,
+    "capital:AT15.1": 1.1640173202409316
+   },
+   "kl": 0.2681039376960446,
+   "other_drop": -0.20146453380584717,
+   "comps": {
+    "binding:DN0.8": [
+     "AT15.3"
+    ],
+    "binding:AT11.3": [
+     "AT11.6"
+    ],
+    "binding:DN14.0": [
+     "DN14.15"
+    ],
+    "binding:AT15.5": [
+     "AT15.3"
+    ],
+    "capital:DN20.4": [
+     "AT19.4"
+    ],
+    "capital:AT15.1": [
+     "AT15.3"
+    ]
+   }
+  },
+  "RANDOM_k1": {
+   "mean": -0.015568039803120673,
+   "per_target": {
+    "binding:DN0.8": -0.002831456919862833,
+    "binding:AT11.3": 0.011642235615802235,
+    "binding:DN14.0": 0.0016762311671489679,
+    "binding:AT15.5": -0.010246101032504033,
+    "capital:DN20.4": -0.026206981600311485,
+    "capital:AT15.1": -0.06744216604899689
+   }
+  },
+  "ECO_k3": {
+   "mean": 1.669442970555049,
+   "per_target": {
+    "binding:DN0.8": 0.21756325206413993,
+    "binding:AT11.3": 1.4987319779252042,
+    "binding:DN14.0": 1.869892220480875,
+    "binding:AT15.5": 2.143966260890346,
+    "capital:DN20.4": 1.1996265745873962,
+    "capital:AT15.1": 3.0868775373823327
+   },
+   "kl": 0.33229709913333255,
+   "other_drop": -1.2976431449254353,
+   "comps": {
+    "binding:DN0.8": [
+     "AT15.3",
+     "DN14.6",
+     "AT3.4"
+    ],
+    "binding:AT11.3": [
+     "AT11.6",
+     "AT11.0",
+     "AT15.3"
+    ],
+    "binding:DN14.0": [
+     "DN14.15",
+     "AT15.3",
+     "DN14.6"
+    ],
+    "binding:AT15.5": [
+     "AT15.3",
+     "DN14.6",
+     "AT23.3"
+    ],
+    "capital:DN20.4": [
+     "AT23.3",
+     "AT19.4",
+     "AT15.3"
+    ],
+    "capital:AT15.1": [
+     "AT15.3",
+     "AT23.3",
+     "AT19.4"
+    ]
+   }
+  },
+  "INTACT_k3": {
+   "mean": 1.5475713949371575,
+   "per_target": {
+    "binding:DN0.8": 0.25249834695548895,
+    "binding:AT11.3": 0.9272932495066007,
+    "binding:DN14.0": 1.675166400300779,
+    "binding:AT15.5": 2.143966260890346,
+    "capital:DN20.4": 1.1996265745873962,
+    "capital:AT15.1": 3.0868775373823327
+   },
+   "kl": 0.32886183137694996,
+   "other_drop": -1.7361445029576619,
+   "comps": {
+    "binding:DN0.8": [
+     "AT15.3",
+     "AT23.3",
+     "DN14.6"
+    ],
+    "binding:AT11.3": [
+     "AT15.3",
+     "AT23.3",
+     "DN14.6"
+    ],
+    "binding:DN14.0": [
+     "AT15.3",
+     "AT23.3",
+     "DN14.6"
+    ],
+    "binding:AT15.5": [
+     "AT15.3",
+     "AT23.3",
+     "DN14.6"
+    ],
+    "capital:DN20.4": [
+     "AT23.3",
+     "AT15.3",
+     "AT19.4"
+    ],
+    "capital:AT15.1": [
+     "AT23.3",
+     "AT15.3",
+     "AT19.4"
+    ]
+   }
+  },
+  "ATP_k3": {
+   "mean": 1.531576637934511,
+   "per_target": {
+    "binding:DN0.8": 0.30129910421408046,
+    "binding:AT11.3": 1.1572495039755788,
+    "binding:DN14.0": 1.869892220480875,
+    "binding:AT15.5": 1.5745148869668029,
+    "capital:DN20.4": 1.1996265745873962,
+    "capital:AT15.1": 3.0868775373823327
+   },
+   "kl": 0.33587946742773056,
+   "other_drop": -0.9820521275202433,
+   "comps": {
+    "binding:DN0.8": [
+     "AT15.3",
+     "AT11.6",
+     "DN14.15"
+    ],
+    "binding:AT11.3": [
+     "AT11.6",
+     "AT11.0",
+     "DN14.15"
+    ],
+    "binding:DN14.0": [
+     "DN14.15",
+     "AT15.3",
+     "DN14.6"
+    ],
+    "binding:AT15.5": [
+     "AT15.3",
+     "AT11.6",
+     "DN14.15"
+    ],
+    "capital:DN20.4": [
+     "AT19.4",
+     "AT15.3",
+     "AT23.3"
+    ],
+    "capital:AT15.1": [
+     "AT15.3",
+     "AT23.3",
+     "AT19.4"
+    ]
+   }
+  },
+  "RANDOM_k3": {
+   "mean": -0.026944848281388618,
+   "per_target": {
+    "binding:DN0.8": -0.005222225878415053,
+    "binding:AT11.3": -0.06439927916805355,
+    "binding:DN14.0": -0.0018081026703923077,
+    "binding:AT15.5": 0.0019831448573249416,
+    "capital:DN20.4": -0.02569409322749021,
+    "capital:AT15.1": -0.06652853360130555
+   }
+  },
+  "targets": [
+   {
+    "task": "binding",
+    "A": "DN0.8",
+    "gap": 1.843980312347412,
+    "val_clean": 2.6177825927734375,
+    "val_damaged": 0.7738022208213806,
+    "kl_damaged": 1.4890565872192383,
+    "other_clean": 8.198333740234375,
+    "other_damaged": 7.971875190734863,
+    "eco_trace": null
+   },
+   {
+    "task": "binding",
+    "A": "AT11.3",
+    "gap": 1.0898340940475464,
+    "val_clean": 2.6177825927734375,
+    "val_damaged": 1.5279483795166016,
+    "kl_damaged": 0.006170078180730343,
+    "other_clean": 8.198333740234375,
+    "other_damaged": 7.103541851043701,
+    "eco_trace": null
+   },
+   {
+    "task": "binding",
+    "A": "DN14.0",
+    "gap": 0.9695945978164673,
+    "val_clean": 2.6177825927734375,
+    "val_damaged": 1.6481878757476807,
+    "kl_damaged": 0.0009515262208878994,
+    "other_clean": 8.198333740234375,
+    "other_damaged": 7.096458435058594,
+    "eco_trace": null
+   },
+   {
+    "task": "binding",
+    "A": "AT15.5",
+    "gap": 0.9098587036132812,
+    "val_clean": 2.6177825927734375,
+    "val_damaged": 1.7079237699508667,
+    "kl_damaged": 0.0014497032389044762,
+    "other_clean": 8.198333740234375,
+    "other_damaged": 8.034661293029785,
+    "eco_trace": null
+   },
+   {
+    "task": "capital",
+    "A": "DN20.4",
+    "gap": 3.441319465637207,
+    "val_clean": 8.240521430969238,
+    "val_damaged": 4.799201488494873,
+    "kl_damaged": 0.0021426333114504814,
+    "other_clean": 2.5571956634521484,
+    "other_damaged": 2.558579444885254,
+    "eco_trace": null
+   },
+   {
+    "task": "capital",
+    "A": "AT15.1",
+    "gap": 1.312743067741394,
+    "val_clean": 8.240521430969238,
+    "val_damaged": 6.9277777671813965,
+    "kl_damaged": 0.02756822109222412,
+    "other_clean": 2.5571956634521484,
+    "other_damaged": 2.0523524284362793,
+    "eco_trace": null
+   }
+  ],
+  "spearman_pool": {
+   "ECO": 0.9326865315459555,
+   "INTACT": 0.6961517116962331,
+   "ATP": 0.713164975255773
+  },
+  "spearman_pool_per_target": {
+   "ECO": [
+    0.8119226567312964,
+    0.9258847324808284,
+    0.9755799755799756,
+    0.9483870967741934,
+    0.967741935483871,
+    0.9666027922255681
+   ],
+   "INTACT": [
+    0.39428294586589197,
+    0.6766833988766336,
+    0.7428223743954131,
+    0.7569553387377596,
+    0.7048387096774194,
+    0.9013275026242809
+   ],
+   "ATP": [
+    0.7926108374384234,
+    0.6914432000076867,
+    0.8284493284493284,
+    0.7446879565493582,
+    0.7357596569299726,
+    0.48603887215986863
+   ]
+  },
+  "oracle_k1": [
+   0.09135576026212877,
+   0.924615991943288,
+   0.5777637781489975,
+   0.9795781117670241,
+   0.3460497965212548,
+   1.1640173202409316
+  ],
+  "specificity_k1": [
+   {
+    "scenario": "binding:DN0.8",
+    "pick": "AT15.3",
+    "gain_intact": 0.7506142258644104,
+    "gain_damaged": 0.20884519815444946,
+    "intact_pick": "AT15.3",
+    "intact_pick_gain_damaged": 0.20884519815444946,
+    "gap_disc": null
+   },
+   {
+    "scenario": "binding:AT11.3",
+    "pick": "AT11.6",
+    "gain_intact": 0.04253685474395752,
+    "gain_damaged": 0.9631449580192566,
+    "intact_pick": "AT15.3",
+    "intact_pick_gain_damaged": 0.4187653362751007,
+    "gap_disc": null
+   },
+   {
+    "scenario": "binding:DN14.0",
+    "pick": "DN14.15",
+    "gain_intact": 0.25307124853134155,
+    "gain_damaged": 0.5196560025215149,
+    "intact_pick": "AT15.3",
+    "intact_pick_gain_damaged": 0.4890970289707184,
+    "gap_disc": null
+   },
+   {
+    "scenario": "binding:AT15.5",
+    "pick": "AT15.3",
+    "gain_intact": 0.7506142258644104,
+    "gain_damaged": 0.9531633853912354,
+    "intact_pick": "AT15.3",
+    "intact_pick_gain_damaged": 0.9531633853912354,
+    "gap_disc": null
+   },
+   {
+    "scenario": "capital:DN20.4",
+    "pick": "AT23.3",
+    "gain_intact": 1.523654580116272,
+    "gain_damaged": 1.1463195085525513,
+    "intact_pick": "AT23.3",
+    "intact_pick_gain_damaged": 1.1463195085525513,
+    "gap_disc": null
+   },
+   {
+    "scenario": "capital:AT15.1",
+    "pick": "AT15.3",
+    "gain_intact": 1.097725749015808,
+    "gain_damaged": 1.5016319751739502,
+    "intact_pick": "AT23.3",
+    "intact_pick_gain_damaged": 1.3168402910232544,
+    "gap_disc": null
+   }
+  ],
+  "eco_k1_equals_oracle": 6,
+  "intact_k1_equals_oracle": 3,
+  "atp_k1_equals_oracle": 5
+ },
+ "amplification": {
+  "alpha2.0": {
+   "ECO_conditional": 0.331749154847614,
+   "TOP_intact": 0.3101277901617537,
+   "GRAD_damaged": 0.4457518877401654,
+   "ECO_interaction": -0.2450166310787798,
+   "RANDOM": -0.0011760272626222766,
+   "kl": {
+    "ECO_conditional": 0.31175053445622325,
+    "TOP_intact": 0.3050636999929945,
+    "GRAD_damaged": 0.2667576356131273,
+    "ECO_interaction": 0.2716079040740927
+   }
+  },
+  "alpha5.0": {
+   "ECO_conditional": 0.26972521299549995,
+   "TOP_intact": 0.26202777389479875,
+   "GRAD_damaged": 0.9136410967513781,
+   "ECO_interaction": -1.207120971587524,
+   "RANDOM": -0.20668080484566195,
+   "kl": {
+    "ECO_conditional": 1.4446751394619544,
+    "TOP_intact": 1.2434863181163867,
+    "GRAD_damaged": 0.4799694475562622,
+    "ECO_interaction": 0.48292631035049755
+   }
+  },
+  "picks": {
+   "binding:DN0.8": {
+    "ECO_conditional": "DN0.3",
+    "TOP_intact": "AT11.3",
+    "GRAD_damaged": "DN14.0",
+    "ECO_interaction": "AT15.3"
+   },
+   "binding:AT11.3": {
+    "ECO_conditional": "DN0.8",
+    "TOP_intact": "DN0.8",
+    "GRAD_damaged": "AT11.4",
+    "ECO_interaction": "AT15.3"
+   },
+   "binding:DN14.0": {
+    "ECO_conditional": "DN0.8",
+    "TOP_intact": "DN0.8",
+    "GRAD_damaged": "MLP13",
+    "ECO_interaction": "AT15.3"
+   },
+   "binding:AT15.5": {
+    "ECO_conditional": "DN0.8",
+    "TOP_intact": "DN0.8",
+    "GRAD_damaged": "DN14.0",
+    "ECO_interaction": "AT23.3"
+   },
+   "capital:DN20.4": {
+    "ECO_conditional": "AT19.1",
+    "TOP_intact": "AT15.1",
+    "GRAD_damaged": "MLP9",
+    "ECO_interaction": "AT19.1"
+   },
+   "capital:AT15.1": {
+    "ECO_conditional": "DN20.4",
+    "TOP_intact": "DN20.4",
+    "GRAD_damaged": "DN20.4",
+    "ECO_interaction": "AT23.3"
+   }
+  },
+  "naive_pick_is_competitor": 5,
+  "n": 6
+ }
+}
