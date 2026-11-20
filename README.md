@@ -1,6 +1,6 @@
 # Neural Ecosystem Atlas
 
-Code, results and figures for the blog post **"Neural Networks Are Secretly Biological Processes"**, which studies how the components of [Qwen3.5-0.8B](https://huggingface.co/Qwen/Qwen3.5-0.8B) interact. The 288 Gated DeltaNet heads, 48 gated-attention heads and 24 MLP blocks are treated as an ecosystem and turned off one at a time and in pairs, using resample ablation.
+Code, results and figures for the blog post **"Language Models Are Secretly Biological Processes"**, which studies how the components of [Qwen3.5-0.8B](https://huggingface.co/Qwen/Qwen3.5-0.8B) interact. The 288 Gated DeltaNet heads, 48 gated-attention heads and 24 MLP blocks are treated as an ecosystem and turned off one at a time and in pairs, using resample ablation.
 
 The four experiments:
 1. **Hidden Ecosystem**: pairwise interactions among the 16 most important components
